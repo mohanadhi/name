@@ -1,0 +1,93 @@
+body{
+    background-image: linear-gradient(to right, rgba(71,88,95), rgba(211,204,176));
+    padding: 15%;
+    /* display: flex;
+    justify-content: space-between  ; */
+}
+.main{
+    width: 5px;
+    height: 60px;
+}
+.inf p{
+    color: rgba(71,88,95);
+    padding-left: 10%;
+    font-size: 18px;
+    
+}
+img{
+    width: 230px;
+    height: 350px;
+    padding: 2%;
+    border: solid;
+    border-color: rgba(71,88,95);
+    border-width: 5px;
+    margin-left: 550%;
+}
+.par{
+    padding-top: 2%;
+    padding-left: 2%;
+}
+.mainm{
+    width: 320px;
+    height: 450px;
+    background-color: rgba(211,204,176);
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+}
+.parenta{
+    padding-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+button{
+    height: 60px;
+    width: 150px;
+    background-color: rgba(211,204,176);
+    position: absolute;
+    font-size: 50px;
+    color: rgba(71,88,95);
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 0px 8px 0px rgb(0, 0, 122) 5px 8px 20px #222222;
+    transition: all 0.2 ease;
+    
+}
+a:active{
+    box-shadow: none;
+    top: 8px;
+}
+.butt{
+   padding-bottom: 7%;
+}
+
+.choose{
+    
+    padding-left: 10%;
+    padding-bottom: 5%;
+    display: flex;
+    
+}
+.choose1{
+    font-size: 19px;
+   
+}
+
+.choose3{
+    
+    
+        padding-left: 15%;
+        padding-bottom: 5%;
+        display: flex;
+        
+    }
+.parentz{
+    display: flex;
+    padding-bottom: 5%;
+    
+}

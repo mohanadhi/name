@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(30, 0, 255);
+    padding: 15%;
+    /* display: flex;
+    justify-content: space-between  ; */
+}
+.main{
+    width: 5px;
+    height: 60px;
+}
+.inf p{
+    color: rgb(255, 4, 4);
+    padding-left: 10%;
+    font-size: 18px;
+    
+}
+img{
+    width: 230px;
+    height: 350px;
+    padding: 2%;
+    border: solid;
+    border-color: rgb(29, 105, 1);
+    border-width: 5px;
+    margin-left: 550%;
+}
+.par{
+    padding-top: 2%;
+    padding-left: 2%;
+}
+.mainm{
+    width: 320px;
+    height: 450px;
+    background-color: rgb(115, 55, 1);
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+}
